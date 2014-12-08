@@ -2,12 +2,12 @@
   "name": "grunt-modulesconverter",
   "version": "0.0.5",
   "description": "Modules converter",
-  "homepage": "--",
-  "repository": "--",
+  "homepage": "https://github.com/alfathenus/grunt-moduleConverter",
+  "repository": "https://github.com/alfathenus/grunt-moduleConverter",
   "author": {
     "name": "Andres Lozada Mosto",
     "email": "alfathenus@gmail.com",
-    "url": ""
+    "url": "https://github.com/alfathenus/grunt-moduleConverter"
   },
   "keywords": [
     "gruntplugin"
