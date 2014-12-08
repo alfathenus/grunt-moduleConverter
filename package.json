@@ -1,6 +1,6 @@
 {
   "name": "grunt-modulesconverter",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Modules converter",
   "homepage": "https://github.com/alfathenus/grunt-moduleConverter",
   "repository": "https://github.com/alfathenus/grunt-moduleConverter",
@@ -10,7 +10,7 @@
     "url": "https://github.com/alfathenus/grunt-moduleConverter"
   },
   "keywords": [
-    "gruntplugin", "amd", "commonjs", "cjs", "module"
+    "gruntplugin"
   ],
   "main": "Gruntfile.js",
   "engines": {
